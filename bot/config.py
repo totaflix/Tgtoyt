@@ -2,19 +2,19 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "8124665463:AAEf2rpA8CXJL7cDi71NSkkOcf7rIF5JdyU"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "yt"
 
-    API_ID = ""
+    API_ID = "25194442"
 
-    API_HASH = ""
+    API_HASH = "9e93d41112872cc3bd58f4e29fd82c0a"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "918735626975-k4l71g034riap1q3trglt0lajadm55sc.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [7651377821]
 
     VIDEO_DESCRIPTION = ""
 
